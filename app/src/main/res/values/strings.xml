@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Room - kotlin</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="add">add</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="clear_all">Clear All</string>
+    <string name="textview">TextView</string>
+</resources>
